@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\refint\VinosBlancos.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\ref\VinosBlancos.dll
