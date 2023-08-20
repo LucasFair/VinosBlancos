@@ -3,7 +3,6 @@ C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBl
 C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.runtimeconfig.json
 C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.dll
 C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\bin\Debug\net7.0\VinosBlancos.pdb
-C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.csproj.AssemblyReference.cache
 C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.AssemblyInfoInputs.cache
 C:\Users\Fair\Documents\Hovedforløb\H1\C#\VinosBlancos\obj\Debug\net7.0\VinosBlancos.AssemblyInfo.cs
